@@ -1,0 +1,15 @@
+.bg-container{
+    background-color: whitesmoke;
+    height: 100vh;
+    text-align: center;
+    padding: 20px;
+}
+.image{
+    height: 25vh;
+    width: 15vw;
+    border-radius: 20px;
+    margin: 20px;
+}
+.sub-container{
+    text-align: left;
+}
